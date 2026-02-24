@@ -1,4 +1,4 @@
-# fpa-portfolio
+# FPA - Portfolio
 
 # 📊 CloudMetrics FP&A Portfolio Project
 

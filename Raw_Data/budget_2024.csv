@@ -1,1 +1,241 @@
-
+month,department,category,budget_amount
+2024-01,R&D,Salaries,420000
+2024-01,R&D,Software,25000
+2024-01,R&D,Travel,8000
+2024-01,R&D,Marketing,2000
+2024-01,R&D,Other,5000
+2024-01,Sales & Marketing,Salaries,280000
+2024-01,Sales & Marketing,Software,15000
+2024-01,Sales & Marketing,Travel,30000
+2024-01,Sales & Marketing,Marketing,85000
+2024-01,Sales & Marketing,Other,8000
+2024-01,G&A,Salaries,150000
+2024-01,G&A,Software,12000
+2024-01,G&A,Travel,5000
+2024-01,G&A,Marketing,1000
+2024-01,G&A,Other,10000
+2024-01,COGS,Salaries,90000
+2024-01,COGS,Software,40000
+2024-01,COGS,Travel,2000
+2024-01,COGS,Marketing,0
+2024-01,COGS,Other,6000
+2024-02,R&D,Salaries,420000
+2024-02,R&D,Software,25000
+2024-02,R&D,Travel,8000
+2024-02,R&D,Marketing,2000
+2024-02,R&D,Other,5000
+2024-02,Sales & Marketing,Salaries,280000
+2024-02,Sales & Marketing,Software,15000
+2024-02,Sales & Marketing,Travel,30000
+2024-02,Sales & Marketing,Marketing,85000
+2024-02,Sales & Marketing,Other,8000
+2024-02,G&A,Salaries,150000
+2024-02,G&A,Software,12000
+2024-02,G&A,Travel,5000
+2024-02,G&A,Marketing,1000
+2024-02,G&A,Other,10000
+2024-02,COGS,Salaries,90000
+2024-02,COGS,Software,40000
+2024-02,COGS,Travel,2000
+2024-02,COGS,Marketing,0
+2024-02,COGS,Other,6000
+2024-03,R&D,Salaries,420000
+2024-03,R&D,Software,25000
+2024-03,R&D,Travel,8000
+2024-03,R&D,Marketing,2000
+2024-03,R&D,Other,5000
+2024-03,Sales & Marketing,Salaries,280000
+2024-03,Sales & Marketing,Software,15000
+2024-03,Sales & Marketing,Travel,30000
+2024-03,Sales & Marketing,Marketing,85000
+2024-03,Sales & Marketing,Other,8000
+2024-03,G&A,Salaries,150000
+2024-03,G&A,Software,12000
+2024-03,G&A,Travel,5000
+2024-03,G&A,Marketing,1000
+2024-03,G&A,Other,10000
+2024-03,COGS,Salaries,90000
+2024-03,COGS,Software,40000
+2024-03,COGS,Travel,2000
+2024-03,COGS,Marketing,0
+2024-03,COGS,Other,6000
+2024-04,R&D,Salaries,420000
+2024-04,R&D,Software,25000
+2024-04,R&D,Travel,8000
+2024-04,R&D,Marketing,2000
+2024-04,R&D,Other,5000
+2024-04,Sales & Marketing,Salaries,280000
+2024-04,Sales & Marketing,Software,15000
+2024-04,Sales & Marketing,Travel,30000
+2024-04,Sales & Marketing,Marketing,85000
+2024-04,Sales & Marketing,Other,8000
+2024-04,G&A,Salaries,150000
+2024-04,G&A,Software,12000
+2024-04,G&A,Travel,5000
+2024-04,G&A,Marketing,1000
+2024-04,G&A,Other,10000
+2024-04,COGS,Salaries,90000
+2024-04,COGS,Software,40000
+2024-04,COGS,Travel,2000
+2024-04,COGS,Marketing,0
+2024-04,COGS,Other,6000
+2024-05,R&D,Salaries,420000
+2024-05,R&D,Software,25000
+2024-05,R&D,Travel,8000
+2024-05,R&D,Marketing,2000
+2024-05,R&D,Other,5000
+2024-05,Sales & Marketing,Salaries,280000
+2024-05,Sales & Marketing,Software,15000
+2024-05,Sales & Marketing,Travel,30000
+2024-05,Sales & Marketing,Marketing,85000
+2024-05,Sales & Marketing,Other,8000
+2024-05,G&A,Salaries,150000
+2024-05,G&A,Software,12000
+2024-05,G&A,Travel,5000
+2024-05,G&A,Marketing,1000
+2024-05,G&A,Other,10000
+2024-05,COGS,Salaries,90000
+2024-05,COGS,Software,40000
+2024-05,COGS,Travel,2000
+2024-05,COGS,Marketing,0
+2024-05,COGS,Other,6000
+2024-06,R&D,Salaries,420000
+2024-06,R&D,Software,25000
+2024-06,R&D,Travel,8000
+2024-06,R&D,Marketing,2000
+2024-06,R&D,Other,5000
+2024-06,Sales & Marketing,Salaries,280000
+2024-06,Sales & Marketing,Software,15000
+2024-06,Sales & Marketing,Travel,30000
+2024-06,Sales & Marketing,Marketing,85000
+2024-06,Sales & Marketing,Other,8000
+2024-06,G&A,Salaries,150000
+2024-06,G&A,Software,12000
+2024-06,G&A,Travel,5000
+2024-06,G&A,Marketing,1000
+2024-06,G&A,Other,10000
+2024-06,COGS,Salaries,90000
+2024-06,COGS,Software,40000
+2024-06,COGS,Travel,2000
+2024-06,COGS,Marketing,0
+2024-06,COGS,Other,6000
+2024-07,R&D,Salaries,420000
+2024-07,R&D,Software,25000
+2024-07,R&D,Travel,8000
+2024-07,R&D,Marketing,2000
+2024-07,R&D,Other,5000
+2024-07,Sales & Marketing,Salaries,280000
+2024-07,Sales & Marketing,Software,15000
+2024-07,Sales & Marketing,Travel,30000
+2024-07,Sales & Marketing,Marketing,85000
+2024-07,Sales & Marketing,Other,8000
+2024-07,G&A,Salaries,150000
+2024-07,G&A,Software,12000
+2024-07,G&A,Travel,5000
+2024-07,G&A,Marketing,1000
+2024-07,G&A,Other,10000
+2024-07,COGS,Salaries,90000
+2024-07,COGS,Software,40000
+2024-07,COGS,Travel,2000
+2024-07,COGS,Marketing,0
+2024-07,COGS,Other,6000
+2024-08,R&D,Salaries,420000
+2024-08,R&D,Software,25000
+2024-08,R&D,Travel,8000
+2024-08,R&D,Marketing,2000
+2024-08,R&D,Other,5000
+2024-08,Sales & Marketing,Salaries,280000
+2024-08,Sales & Marketing,Software,15000
+2024-08,Sales & Marketing,Travel,30000
+2024-08,Sales & Marketing,Marketing,85000
+2024-08,Sales & Marketing,Other,8000
+2024-08,G&A,Salaries,150000
+2024-08,G&A,Software,12000
+2024-08,G&A,Travel,5000
+2024-08,G&A,Marketing,1000
+2024-08,G&A,Other,10000
+2024-08,COGS,Salaries,90000
+2024-08,COGS,Software,40000
+2024-08,COGS,Travel,2000
+2024-08,COGS,Marketing,0
+2024-08,COGS,Other,6000
+2024-09,R&D,Salaries,420000
+2024-09,R&D,Software,25000
+2024-09,R&D,Travel,8000
+2024-09,R&D,Marketing,2000
+2024-09,R&D,Other,5000
+2024-09,Sales & Marketing,Salaries,280000
+2024-09,Sales & Marketing,Software,15000
+2024-09,Sales & Marketing,Travel,30000
+2024-09,Sales & Marketing,Marketing,85000
+2024-09,Sales & Marketing,Other,8000
+2024-09,G&A,Salaries,150000
+2024-09,G&A,Software,12000
+2024-09,G&A,Travel,5000
+2024-09,G&A,Marketing,1000
+2024-09,G&A,Other,10000
+2024-09,COGS,Salaries,90000
+2024-09,COGS,Software,40000
+2024-09,COGS,Travel,2000
+2024-09,COGS,Marketing,0
+2024-09,COGS,Other,6000
+2024-10,R&D,Salaries,420000
+2024-10,R&D,Software,25000
+2024-10,R&D,Travel,8000
+2024-10,R&D,Marketing,2000
+2024-10,R&D,Other,5000
+2024-10,Sales & Marketing,Salaries,280000
+2024-10,Sales & Marketing,Software,15000
+2024-10,Sales & Marketing,Travel,30000
+2024-10,Sales & Marketing,Marketing,85000
+2024-10,Sales & Marketing,Other,8000
+2024-10,G&A,Salaries,150000
+2024-10,G&A,Software,12000
+2024-10,G&A,Travel,5000
+2024-10,G&A,Marketing,1000
+2024-10,G&A,Other,10000
+2024-10,COGS,Salaries,90000
+2024-10,COGS,Software,40000
+2024-10,COGS,Travel,2000
+2024-10,COGS,Marketing,0
+2024-10,COGS,Other,6000
+2024-11,R&D,Salaries,420000
+2024-11,R&D,Software,25000
+2024-11,R&D,Travel,8000
+2024-11,R&D,Marketing,2000
+2024-11,R&D,Other,5000
+2024-11,Sales & Marketing,Salaries,280000
+2024-11,Sales & Marketing,Software,15000
+2024-11,Sales & Marketing,Travel,30000
+2024-11,Sales & Marketing,Marketing,85000
+2024-11,Sales & Marketing,Other,8000
+2024-11,G&A,Salaries,150000
+2024-11,G&A,Software,12000
+2024-11,G&A,Travel,5000
+2024-11,G&A,Marketing,1000
+2024-11,G&A,Other,10000
+2024-11,COGS,Salaries,90000
+2024-11,COGS,Software,40000
+2024-11,COGS,Travel,2000
+2024-11,COGS,Marketing,0
+2024-11,COGS,Other,6000
+2024-12,R&D,Salaries,420000
+2024-12,R&D,Software,25000
+2024-12,R&D,Travel,8000
+2024-12,R&D,Marketing,2000
+2024-12,R&D,Other,5000
+2024-12,Sales & Marketing,Salaries,280000
+2024-12,Sales & Marketing,Software,15000
+2024-12,Sales & Marketing,Travel,30000
+2024-12,Sales & Marketing,Marketing,85000
+2024-12,Sales & Marketing,Other,8000
+2024-12,G&A,Salaries,150000
+2024-12,G&A,Software,12000
+2024-12,G&A,Travel,5000
+2024-12,G&A,Marketing,1000
+2024-12,G&A,Other,10000
+2024-12,COGS,Salaries,90000
+2024-12,COGS,Software,40000
+2024-12,COGS,Travel,2000
+2024-12,COGS,Marketing,0
+2024-12,COGS,Other,6000

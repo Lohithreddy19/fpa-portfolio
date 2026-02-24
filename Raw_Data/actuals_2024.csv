@@ -1,1 +1,241 @@
-
+month,department,category,actual_amount
+2024-01,R&D,Salaries,406788.0
+2024-01,R&D,Software,30696.0
+2024-01,R&D,Travel,9035.0
+2024-01,R&D,Marketing,2139.0
+2024-01,R&D,Other,4351.0
+2024-01,Sales & Marketing,Salaries,243655.0
+2024-01,Sales & Marketing,Software,12392.0
+2024-01,Sales & Marketing,Travel,35693.0
+2024-01,Sales & Marketing,Marketing,90993.0
+2024-01,Sales & Marketing,Other,8949.0
+2024-01,G&A,Salaries,121389.0
+2024-01,G&A,Software,14838.0
+2024-01,G&A,Travel,5873.0
+2024-01,G&A,Marketing,896.0
+2024-01,G&A,Other,8818.0
+2024-01,COGS,Salaries,79428.0
+2024-01,COGS,Software,37476.0
+2024-01,COGS,Travel,2072.0
+2024-01,COGS,Marketing,0.0
+2024-01,COGS,Other,5586.0
+2024-02,R&D,Salaries,451640.0
+2024-02,R&D,Software,21569.0
+2024-02,R&D,Travel,7452.0
+2024-02,R&D,Marketing,1930.0
+2024-02,R&D,Other,5026.0
+2024-02,Sales & Marketing,Salaries,322932.0
+2024-02,Sales & Marketing,Software,13348.0
+2024-02,Sales & Marketing,Travel,30942.0
+2024-02,Sales & Marketing,Marketing,90660.0
+2024-02,Sales & Marketing,Other,6567.0
+2024-02,G&A,Salaries,161009.0
+2024-02,G&A,Software,10521.0
+2024-02,G&A,Travel,4146.0
+2024-02,G&A,Marketing,1227.0
+2024-02,G&A,Other,12345.0
+2024-02,COGS,Salaries,104740.0
+2024-02,COGS,Software,37483.0
+2024-02,COGS,Travel,1688.0
+2024-02,COGS,Marketing,0.0
+2024-02,COGS,Other,5988.0
+2024-03,R&D,Salaries,359065.0
+2024-03,R&D,Software,25571.0
+2024-03,R&D,Travel,6524.0
+2024-03,R&D,Marketing,2418.0
+2024-03,R&D,Other,4582.0
+2024-03,Sales & Marketing,Salaries,307478.0
+2024-03,Sales & Marketing,Software,14104.0
+2024-03,Sales & Marketing,Travel,31021.0
+2024-03,Sales & Marketing,Marketing,88912.0
+2024-03,Sales & Marketing,Other,7065.0
+2024-03,G&A,Salaries,185447.0
+2024-03,G&A,Software,13786.0
+2024-03,G&A,Travel,6114.0
+2024-03,G&A,Marketing,1203.0
+2024-03,G&A,Other,10691.0
+2024-03,COGS,Salaries,109336.0
+2024-03,COGS,Software,33593.0
+2024-03,COGS,Travel,1776.0
+2024-03,COGS,Marketing,0.0
+2024-03,COGS,Other,5678.0
+2024-04,R&D,Salaries,409460.0
+2024-04,R&D,Software,23053.0
+2024-04,R&D,Travel,9383.0
+2024-04,R&D,Marketing,1921.0
+2024-04,R&D,Other,4632.0
+2024-04,Sales & Marketing,Salaries,292380.0
+2024-04,Sales & Marketing,Software,12951.0
+2024-04,Sales & Marketing,Travel,34830.0
+2024-04,Sales & Marketing,Marketing,70852.0
+2024-04,Sales & Marketing,Other,9953.0
+2024-04,G&A,Salaries,172127.0
+2024-04,G&A,Software,10673.0
+2024-04,G&A,Travel,4012.0
+2024-04,G&A,Marketing,1167.0
+2024-04,G&A,Other,11181.0
+2024-04,COGS,Salaries,101525.0
+2024-04,COGS,Software,45883.0
+2024-04,COGS,Travel,1667.0
+2024-04,COGS,Marketing,0.0
+2024-04,COGS,Other,5113.0
+2024-05,R&D,Salaries,499127.0
+2024-05,R&D,Software,27012.0
+2024-05,R&D,Travel,7591.0
+2024-05,R&D,Marketing,1657.0
+2024-05,R&D,Other,4700.0
+2024-05,Sales & Marketing,Salaries,264973.0
+2024-05,Sales & Marketing,Software,16925.0
+2024-05,Sales & Marketing,Travel,32607.0
+2024-05,Sales & Marketing,Marketing,101936.0
+2024-05,Sales & Marketing,Other,8100.0
+2024-05,G&A,Salaries,128073.0
+2024-05,G&A,Software,13452.0
+2024-05,G&A,Travel,5712.0
+2024-05,G&A,Marketing,1053.0
+2024-05,G&A,Other,11469.0
+2024-05,COGS,Salaries,91999.0
+2024-05,COGS,Software,41409.0
+2024-05,COGS,Travel,1985.0
+2024-05,COGS,Marketing,0.0
+2024-05,COGS,Other,5091.0
+2024-06,R&D,Salaries,341940.0
+2024-06,R&D,Software,27160.0
+2024-06,R&D,Travel,7532.0
+2024-06,R&D,Marketing,2058.0
+2024-06,R&D,Other,6042.0
+2024-06,Sales & Marketing,Salaries,255411.0
+2024-06,Sales & Marketing,Software,14770.0
+2024-06,Sales & Marketing,Travel,34200.0
+2024-06,Sales & Marketing,Marketing,76752.0
+2024-06,Sales & Marketing,Other,6677.0
+2024-06,G&A,Salaries,139558.0
+2024-06,G&A,Software,10471.0
+2024-06,G&A,Travel,6092.0
+2024-06,G&A,Marketing,1164.0
+2024-06,G&A,Other,10850.0
+2024-06,COGS,Salaries,107294.0
+2024-06,COGS,Software,46466.0
+2024-06,COGS,Travel,1768.0
+2024-06,COGS,Marketing,0.0
+2024-06,COGS,Other,6256.0
+2024-07,R&D,Salaries,488606.0
+2024-07,R&D,Software,30081.0
+2024-07,R&D,Travel,7545.0
+2024-07,R&D,Marketing,1699.0
+2024-07,R&D,Other,4513.0
+2024-07,Sales & Marketing,Salaries,277816.0
+2024-07,Sales & Marketing,Software,17522.0
+2024-07,Sales & Marketing,Travel,35620.0
+2024-07,Sales & Marketing,Marketing,68266.0
+2024-07,Sales & Marketing,Other,8239.0
+2024-07,G&A,Salaries,148175.0
+2024-07,G&A,Software,10799.0
+2024-07,G&A,Travel,4270.0
+2024-07,G&A,Marketing,952.0
+2024-07,G&A,Other,12243.0
+2024-07,COGS,Salaries,85090.0
+2024-07,COGS,Software,41338.0
+2024-07,COGS,Travel,2233.0
+2024-07,COGS,Marketing,0.0
+2024-07,COGS,Other,7424.0
+2024-08,R&D,Salaries,517903.0
+2024-08,R&D,Software,22833.0
+2024-08,R&D,Travel,8190.0
+2024-08,R&D,Marketing,1871.0
+2024-08,R&D,Other,4641.0
+2024-08,Sales & Marketing,Salaries,228648.0
+2024-08,Sales & Marketing,Software,16115.0
+2024-08,Sales & Marketing,Travel,30786.0
+2024-08,Sales & Marketing,Marketing,69969.0
+2024-08,Sales & Marketing,Other,7403.0
+2024-08,G&A,Salaries,181308.0
+2024-08,G&A,Software,10894.0
+2024-08,G&A,Travel,4326.0
+2024-08,G&A,Marketing,1020.0
+2024-08,G&A,Other,12435.0
+2024-08,COGS,Salaries,81803.0
+2024-08,COGS,Software,44098.0
+2024-08,COGS,Travel,2285.0
+2024-08,COGS,Marketing,0.0
+2024-08,COGS,Other,6766.0
+2024-09,R&D,Salaries,405511.0
+2024-09,R&D,Software,27113.0
+2024-09,R&D,Travel,8681.0
+2024-09,R&D,Marketing,2082.0
+2024-09,R&D,Other,4203.0
+2024-09,Sales & Marketing,Salaries,329248.0
+2024-09,Sales & Marketing,Software,14165.0
+2024-09,Sales & Marketing,Travel,26518.0
+2024-09,Sales & Marketing,Marketing,69560.0
+2024-09,Sales & Marketing,Other,8527.0
+2024-09,G&A,Salaries,165736.0
+2024-09,G&A,Software,9690.0
+2024-09,G&A,Travel,5152.0
+2024-09,G&A,Marketing,902.0
+2024-09,G&A,Other,10903.0
+2024-09,COGS,Salaries,79062.0
+2024-09,COGS,Software,44437.0
+2024-09,COGS,Travel,1948.0
+2024-09,COGS,Marketing,0.0
+2024-09,COGS,Other,5171.0
+2024-10,R&D,Salaries,400462.0
+2024-10,R&D,Software,21277.0
+2024-10,R&D,Travel,9729.0
+2024-10,R&D,Marketing,2390.0
+2024-10,R&D,Other,4580.0
+2024-10,Sales & Marketing,Salaries,307158.0
+2024-10,Sales & Marketing,Software,17516.0
+2024-10,Sales & Marketing,Travel,31495.0
+2024-10,Sales & Marketing,Marketing,88259.0
+2024-10,Sales & Marketing,Other,7271.0
+2024-10,G&A,Salaries,126284.0
+2024-10,G&A,Software,14445.0
+2024-10,G&A,Travel,6026.0
+2024-10,G&A,Marketing,1085.0
+2024-10,G&A,Other,9526.0
+2024-10,COGS,Salaries,86143.0
+2024-10,COGS,Software,45067.0
+2024-10,COGS,Travel,2407.0
+2024-10,COGS,Marketing,0.0
+2024-10,COGS,Other,6906.0
+2024-11,R&D,Salaries,457344.0
+2024-11,R&D,Software,20947.0
+2024-11,R&D,Travel,6982.0
+2024-11,R&D,Marketing,2409.0
+2024-11,R&D,Other,5364.0
+2024-11,Sales & Marketing,Salaries,225159.0
+2024-11,Sales & Marketing,Software,12685.0
+2024-11,Sales & Marketing,Travel,32957.0
+2024-11,Sales & Marketing,Marketing,68194.0
+2024-11,Sales & Marketing,Other,6979.0
+2024-11,G&A,Salaries,157040.0
+2024-11,G&A,Software,13336.0
+2024-11,G&A,Travel,5467.0
+2024-11,G&A,Marketing,901.0
+2024-11,G&A,Other,11205.0
+2024-11,COGS,Salaries,81609.0
+2024-11,COGS,Software,37857.0
+2024-11,COGS,Travel,2272.0
+2024-11,COGS,Marketing,0.0
+2024-11,COGS,Other,7093.0
+2024-12,R&D,Salaries,460289.0
+2024-12,R&D,Software,26393.0
+2024-12,R&D,Travel,6737.0
+2024-12,R&D,Marketing,1931.0
+2024-12,R&D,Other,4597.0
+2024-12,Sales & Marketing,Salaries,254743.0
+2024-12,Sales & Marketing,Software,18568.0
+2024-12,Sales & Marketing,Travel,29307.0
+2024-12,Sales & Marketing,Marketing,102121.0
+2024-12,Sales & Marketing,Other,8672.0
+2024-12,G&A,Salaries,173650.0
+2024-12,G&A,Software,12314.0
+2024-12,G&A,Travel,5298.0
+2024-12,G&A,Marketing,1022.0
+2024-12,G&A,Other,8879.0
+2024-12,COGS,Salaries,101259.0
+2024-12,COGS,Software,37054.0
+2024-12,COGS,Travel,1622.0
+2024-12,COGS,Marketing,0.0
+2024-12,COGS,Other,5278.0

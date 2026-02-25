@@ -119,13 +119,13 @@ Open `excel_models/BudgetVsActuals_Model.xlsx` — data is pre-linked to the CSV
 ## 📊 Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](05_screenshots/dashboard_executive.png)
+![Executive Summary](Screenshots/dashboard_executive.png)
 
 ### Variance Deep Dive
-![Variance Deep Dive](05_screenshots/dashboard_variance.png)
+![Variance Deep Dive](Screenshots/dashboard_variance.png)
 
 ### SaaS Revenue Analytics
-![SaaS Analytics](05_screenshots/dashboard_saas.png)
+![SaaS Analytics](Screenshots/dashboard_saas.png)
 
 ---
 

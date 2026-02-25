@@ -33,13 +33,13 @@ Built end-to-end: data generation → Excel modeling → Power BI dashboard → 
 ## 📊 Dashboard Charts
 
 ### Chart 1 — OPEX Waterfall
-![Waterfall Chart](screenshots/chart1_waterfall.png)
+![Waterfall Chart](Screenshots/chart1_waterfall.png)
 
 ### Chart 2 — Monthly Variance Trend
-![Variance Trend](screenshots/chart2_variance_trend.png)
+![Variance Trend](Screenshots/chart2_variance_trend.png)
 
 ### Chart 3 — MRR Growth Composition
-![MRR Chart](screenshots/chart3_mrr_bars.png)
+![MRR Chart](Screenshots/chart3_mrr_bars.png)
 
 
 ---

@@ -32,7 +32,7 @@ Built end-to-end: data generation → Excel modeling → Power BI dashboard → 
 
 ## 📊 Dashboard Charts
 
-### Chart 1 — Budget Vs. Actuals
+### Chart 1 — Budget Vs. Actual
 ![Waterfall Chart](Screenshots/chart1_waterfall.png)
 
 ### Chart 2 — Monthly Variance Trend

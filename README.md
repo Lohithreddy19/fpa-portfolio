@@ -30,6 +30,18 @@ Built end-to-end: data generation → Excel modeling → Power BI dashboard → 
 | ⚠️ Bear Case Alert | Cash breaches minimum buffer by **Week 10** — hiring pause needed by Week 7 |
 | 📉 Net Churn Rate | Held below 2.1% monthly — within healthy SaaS benchmark range |
 
+## 📊 Dashboard Charts
+
+### Chart 1 — OPEX Waterfall
+![Waterfall Chart](05_screenshots/chart1_waterfall.png)
+
+### Chart 2 — Monthly Variance Trend
+![Variance Trend](05_screenshots/chart2_variance_trend.png)
+
+### Chart 3 — MRR Growth Composition
+![MRR Chart](05_screenshots/chart3_mrr_bars.png)
+
+
 ---
 
 ## 📁 Repository Structure

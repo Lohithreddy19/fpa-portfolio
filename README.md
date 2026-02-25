@@ -36,24 +36,24 @@ Built end-to-end: data generation → Excel modeling → Power BI dashboard → 
 
 ```
 cloudmetrics-fpa/
-├── 01_raw_data/
+├── raw_data/
 │   ├── budget_2024.csv          # Monthly budget by dept & category
 │   ├── actuals_2024.csv         # Monthly actuals with realistic variance
 │   ├── mrr_data.csv             # MRR, new ARR, expansion, churn
 │   └── headcount_roster.csv     # 120-employee roster with salary data
 │
-├── 02_excel_models/
+├── excel_models/
 │   ├── BudgetVsActuals_Model.xlsx   # Core variance model (7 tabs)
 │   └── CashFlow_13Week.xlsx         # 13-week forecast with scenario toggle
 │
-├── 03_python_scripts/
+├── python_scripts/
 │   ├── generate_data.py         # Generates all CSV datasets
 │   └── variance_report.py       # Auto-generates RAG variance commentary to Excel
 │
-├── 04_notebooks/
+├── notebooks/
 │   └── variance_analysis.ipynb  # Jupyter walkthrough of variance analysis
 │
-├── 05_screenshots/
+├── screenshots/
 │   ├── dashboard_executive.png  # Power BI executive summary page
 │   ├── dashboard_variance.png   # Variance deep dive page
 │   └── dashboard_saas.png       # SaaS revenue analytics page
@@ -89,18 +89,18 @@ pip install pandas openpyxl numpy
 
 ### 3. Generate the dataset
 ```bash
-python 03_python_scripts/generate_data.py
+python python_scripts/generate_data.py
 ```
-This creates all 4 CSV files in `01_raw_data/`.
+This creates all 4 CSV files in `raw_data/`.
 
 ### 4. Run the variance report
 ```bash
-python 03_python_scripts/variance_report.py
+python python_scripts/variance_report.py
 ```
 Outputs `Variance_Report_Auto.xlsx` with RAG color coding and auto-commentary.
 
 ### 5. Open the Excel models
-Open `02_excel_models/BudgetVsActuals_Model.xlsx` — data is pre-linked to the CSVs. Refresh with `Data > Refresh All`.
+Open `excel_models/BudgetVsActuals_Model.xlsx` — data is pre-linked to the CSVs. Refresh with `Data > Refresh All`.
 
 ---
 
